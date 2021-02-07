@@ -1,8 +1,6 @@
 <p align='center'><a href="https://github.com/aranaywa"><img height="500" src="https://github.com/aranaywa/aranaywa/blob/main/RANBOT.jpg?raw=true"></a>&nbsp;&nbsp;</p>
 
-<h1  align='center'> Hi there 👋 </h1>
-
-<p align='center'>  Yah Intinya Jangan Lupa Bahagia </p>
+<h1  align='center'> Yah Intinya Jangan Lupa Bahagia </h1>
 
 <p align='center'> Pantengin Ajah Sosmed Gua Di Bawah </p>
 
