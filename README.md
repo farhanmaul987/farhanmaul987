@@ -11,6 +11,10 @@
 :star: INSTAGRAM. IG AJA, JGN BANYAK-BANYAK:
   - [ARANAYWA](https://instagram.com/aranaywa)
 
+![aranaywa github stats](https://github-readme-stats.vercel.app/api?username=aranaywa&layout=compact&theme=chartreuse-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aranaywa&count_private=true&show_icons=true&theme=chartreuse-dark)
+
 <!--
 **aranaywa/aranaywa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
