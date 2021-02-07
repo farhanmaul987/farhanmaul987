@@ -8,6 +8,9 @@
 
 <p align='center'> Pantengin Aja, Entah Gua Ngepost Apa Kagak </p>
 
+:star: INSTAGRAM. IG AJA, JGN BANYAK-BANYAK:
+- [@aranaywa](https://instagram.com/aranaywa)
+
 <!--
 **aranaywa/aranaywa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
