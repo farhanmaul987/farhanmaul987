@@ -8,10 +8,10 @@
 
 <p align='center'> Pantengin Aja, Entah Gua Ngepost Apa Kagak </p>
 
-:star: INSTAGRAM. IG AJA, JGN BANYAK-BANYAK:
+### :star: INSTAGRAM. IG AJA, JGN BANYAK-BANYAK:
   - [ARANAYWA](https://instagram.com/aranaywa)
 
-### MY STATS
+### :star: MY STATS
 ___
 
 ![aranaywa github stats](https://github-readme-stats.vercel.app/api?username=aranaywa&layout=compact&theme=chartreuse-dark)
