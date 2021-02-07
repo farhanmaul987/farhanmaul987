@@ -2,6 +2,12 @@
 
 <h1  align='center'> Hi there 👋 </h1>
 
+<p align='center'>  Yah Intinya Jangan Lupa Bahagia </p>
+
+<p align='center'> Pantengin Ajah Sosmed Gua Di Bawah </p>
+
+<p align='center'> Pantengin Aja, Entah Gua Ngepost Apa Kagak </p>
+
 <!--
 **aranaywa/aranaywa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
