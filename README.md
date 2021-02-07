@@ -7,7 +7,6 @@
 <p align='center'> Pantengin Aja, Entah Gua Ngepost Apa Kagak </p>
 
 <p align='center'> :iphone: :iphone: :iphone: </p>
-
 ### :star: INSTAGRAM. IG AJA, JGN BANYAK-BANYAK:
   - [ARANAYWA](https://instagram.com/aranaywa)
 
