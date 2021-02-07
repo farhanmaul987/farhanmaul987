@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align='center'><a href="https://github.com/aranaywa"><img height="200" src="https://github.com/aranaywa/aranaywa/blob/main/RANBOT.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+
+<h1  align='center'> Hi there 👋 </h1>
 
 <!--
 **aranaywa/aranaywa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
