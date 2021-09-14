@@ -8,7 +8,7 @@
 
 <p align='center'> :iphone: :iphone: :iphone: </p>
 
-### :star: INSTAGRAM. IG AJA, JGN BANYAK-BANYAK:
+### :star: SOSMED (IG):
   - [ARANAYWA](https://instagram.com/aranaywa)
 
 ### :star: MY STATS
