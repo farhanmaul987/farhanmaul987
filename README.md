@@ -2,10 +2,6 @@
 
 <h1  align='center'> Yah Intinya Jangan Lupa Bahagia </h1>
 
-<p align='center'> Pantengin Ajah Sosmed Gua Di Bawah </p>
-
-<p align='center'> Pantengin Aja, Entah Gua Ngepost Apa Kagak </p>
-
 <p align='center'> :iphone: :iphone: :iphone: </p>
 
 ### :star: SOSMED (IG):
