@@ -8,9 +8,9 @@
 ### :star: MY STATS
 ___
 
-![aranaywa github stats](https://github-readme-stats.vercel.app/api?username=aranaywa&layout=compact&theme=chartreuse-dark)
+![aranaywa github stats](https://github-readme-stats.vercel.app/api?username=farhanmaul987&layout=compact&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aranaywa&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanmaul987&theme=chartreuse-dark)
 
 <!--
 **aranaywa/aranaywa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
