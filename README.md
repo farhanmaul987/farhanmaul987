@@ -3,7 +3,7 @@
 <p align='center'> :iphone: :iphone: :iphone: </p>
 
 ### :star: SOSMED (IG):
-  - [FARHAN_MAUL](https://instagram.com/farhan_maul)
+  - [@FARHAN.MAUL](https://instagram.com/farhan.maul)
 
 ### :star: MY STATS
 ___
