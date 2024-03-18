@@ -11,7 +11,9 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="35" height="35" /> About Me</h2>
 
-- Just human.
+- A newbie to programming, but trying to continuously learning and improving.
+- Creating simple projects based on my college and coding bootcamp assignments.
+- I'm currently focused on studying about discord bot development.
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" /> Personal Stuff</h2>
 
